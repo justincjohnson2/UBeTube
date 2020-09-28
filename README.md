@@ -12,3 +12,6 @@ This repository includes instructions and examples of how to calibrate and proce
 * *calibration_data.xls* - An example calibration dataset that is processed by the R script.
 * *example_dataset.xls* - An example time series dataset of UBeTube water height measurments that is processed by the R script.
 * *UBeTubeR_REM.Rproj* - A R project file that can be opened and stored with other files to help automatically set working directory where other files are stored. This file should be opened first before attempting to process data with the R script.
+
+## Publications
+This repository can also be found at: https://doi.org/10.5281/zenodo.4056775
