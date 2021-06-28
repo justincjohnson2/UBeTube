@@ -1,9 +1,8 @@
 # Calibrating and Processing Data from an UBeTube
 
-This repository includes instructions and examples of how to calibrate and process UBeTube data in R. It is associated with the following paper:
+This repository includes instructions and examples of how to calibrate and process UBeTube data in R. It is associated with the following publication:
 
-***Evaluation of a runoff monitoring methodology for rangelands: UBeTubes***  
-**Schallner, J. W., J. C. Johnson, C. J. Williams, A. C. Ganguli.** 
+Schallner, J. W., Johnson, J. C., Williams, C. J., & Ganguli, A. C. (2021). Evaluation of a Runoff Monitoring Methodology for Rangelands: UBeTubes. Rangeland Ecology & Management, 78, 46–50. https://doi.org/10.1016/j.rama.2021.05.003
 
 ## Contents
 
@@ -14,4 +13,4 @@ This repository includes instructions and examples of how to calibrate and proce
 * *UBeTubeR_REM.Rproj* - A R project file that can be opened and stored with other files to help automatically set working directory where other files are stored. This file should be opened first before attempting to process data with the R script.
 
 ## Publications
-This repository can also be found at: https://doi.org/10.5281/zenodo.4056775
+This repository can also be found at: https://doi.org/10.5281/zenodo.4056774
